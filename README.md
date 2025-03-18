@@ -1,23 +1,23 @@
-# Real Estate Price Forecast in Rio de Janeiro
+# Real Estate Price Prediction in Rio de Janeiro
 
-## Descrição
+## Description
 
-Este projeto desenvolve uma ferramenta de previsão de preço de imóveis para aluguel de curta temporada no Rio de Janeiro. O objetivo é ajudar locadores comuns a estimar um preço justo para a diária de seus imóveis e auxiliar locatários a identificar preços atrativos com base em imóveis semelhantes.
+This project develops a price prediction tool for short-term rental properties in Rio de Janeiro. The goal is to help common landlords estimate a fair daily rental price for their properties and assist tenants in identifying attractive prices based on similar properties.
 
-## Dados
+## Data
 
-Os dados utilizados foram extraídos do Kaggle: Airbnb Rio de Janeiro. A base contém informações sobre preços de imóveis e suas características, coletadas mensalmente de abril de 2018 a maio de 2020 (exceto junho de 2018). Os valores estão expressos em reais (R$).
+The data used was extracted from Kaggle: Airbnb Rio de Janeiro. The dataset contains information on property prices and their characteristics, collected monthly from April 2018 to May 2020 (except for June 2018). The values are expressed in Brazilian reais (R$).
 
-Os arquivos .csv com os dados estão na pasta Dataset.
+The .csv data files are stored in the Dataset folder.
 
-## Modelos Utilizados
+## Machine Learning Models Used
 
-Foram testados os seguintes modelos de Machine Learning:
+The following Machine Learning models were tested:
 
-* Random Forest
+Random Forest
 
-* Regressão Linear
+Linear Regression
 
-* Extra Trees
+Extra Trees
 
-A performance dos modelos foi avaliada e o modelo mais adequado foi escolhido para previsão.
+The performance of the models was evaluated, and the most suitable model was selected for price prediction.
